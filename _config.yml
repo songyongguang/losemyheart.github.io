@@ -177,7 +177,7 @@ gitment:
         client_secret: 30486c0bf03a9dc02e90592009d34704c67b0198
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: losemyheart
     repo: blog-comments
     clientID: c5400b09b850b76bac27
     clientSecret: 30486c0bf03a9dc02e90592009d34704c67b0198
