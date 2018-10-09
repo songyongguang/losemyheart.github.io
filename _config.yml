@@ -18,7 +18,7 @@ favicon: gakki.ico
 repository: LoseMyHeart/losemyheart.github.io
 github_url: https://github.com/LoseMyHeart
 #cnblog_url: http://www.cnblogs.com/ityouknow
-url: 
+url:
 #enforce_ssl: ityouknow.com
 
 ## Gem
@@ -170,16 +170,16 @@ disqus:
     username: Leo
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: leo
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: c5400b09b850b76bac27
+        client_secret: 30486c0bf03a9dc02e90592009d34704c67b0198
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: ityouknow
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: c5400b09b850b76bac27
+    clientSecret: 30486c0bf03a9dc02e90592009d34704c67b0198
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
