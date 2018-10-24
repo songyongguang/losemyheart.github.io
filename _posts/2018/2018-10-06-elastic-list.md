@@ -13,17 +13,6 @@ excerpt: Elastic 上市对程序员意味着什么？
 
 该公司最初位于阿姆斯特丹，而后搬迁到加利福尼亚，其股价定价为 33 至 35 美元，高于最初的每股 26 美元至 29 美元的价格指数。 700 万普通股募集资金约 1.92 亿美元，上市首日收盘价 70 美元。Elastic 公司拥有期权的程序员们估计今天又是一个不眠夜。
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-8342011714552961"
-     data-ad-slot="1574473453"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Elastic 成立于 2012 年，最著名的产品是搜索引擎 Elasticsearch ，该搜索引擎以与 Google LLC 索引互联网类似的方式为企业用户索引内部数据。使用该产品的知名公司包括：思科、eBay、高盛、美国国家宇航局、微软、维基媒体基金会、三星电子和韦里逊等，下载量超过 1 亿人次。 
 
 Elastic 是一家搜索公司。作为 Elastic Stack（Elasticsearch，Kibana，Beats和Logstash）的创建者，Elastic 构建了自我管理和 SaaS 产品，使数据可以实时和大规模地用于搜索、日志记录、安全和分析用例。该产品普遍应用在各大互联网行业，从最初的日志监控工具发展成为一个全方面的监控平台。
